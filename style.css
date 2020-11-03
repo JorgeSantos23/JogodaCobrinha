@@ -1,0 +1,13 @@
+body{
+    height: 95vh;
+    width: 95vh;
+    display: flex;
+    justify-content: center; /* alinha horizontal*/
+    align-items: center;/*alinha vertical*/
+    flex-direction: column; /*Centraliza verticalmente os elementos*/
+    color: rgb(0, 128, 32)
+    
+}
+#Mpontos{
+ color: blueviolet;
+}
